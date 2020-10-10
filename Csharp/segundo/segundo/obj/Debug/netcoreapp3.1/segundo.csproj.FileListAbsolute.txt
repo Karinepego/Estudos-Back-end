@@ -1,0 +1,13 @@
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.exe
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.deps.json
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.runtimeconfig.json
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.runtimeconfig.dev.json
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.dll
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.pdb
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.csprojAssemblyReference.cache
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.AssemblyInfoInputs.cache
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.AssemblyInfo.cs
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.csproj.CoreCompileInputs.cache
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.dll
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.pdb
+C:\Users\karine\Desktop\GitHub\Estudos-Back-end\Csharp\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.genruntimeconfig.cache

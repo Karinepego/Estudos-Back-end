@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karine\\Documents\\primeiros codigos em C#\\primeiro\\primeiro\\primeiro.csproj",
+      "projectUniqueName": "C:\\Users\\karine\\Documents\\repositorio estudos backend do git\\Estudos-Back-end\\Csharp\\primeiro\\primeiro\\primeiro.csproj",
       "projectName": "primeiro",
-      "projectPath": "C:\\Users\\karine\\Documents\\primeiros codigos em C#\\primeiro\\primeiro\\primeiro.csproj",
+      "projectPath": "C:\\Users\\karine\\Documents\\repositorio estudos backend do git\\Estudos-Back-end\\Csharp\\primeiro\\primeiro\\primeiro.csproj",
       "packagesPath": "C:\\Users\\karine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karine\\Documents\\primeiros codigos em C#\\primeiro\\primeiro\\obj\\",
+      "outputPath": "C:\\Users\\karine\\Documents\\repositorio estudos backend do git\\Estudos-Back-end\\Csharp\\primeiro\\primeiro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karine\\AppData\\Roaming\\NuGet\\NuGet.Config",
